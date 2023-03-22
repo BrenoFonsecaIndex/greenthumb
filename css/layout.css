@@ -1,0 +1,311 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@700&display=swap');
+
+.back-top {
+    position: absolute;
+    width: 1190px;
+    height: 1500px;
+    top: 600px;
+    left: 150px;
+}
+
+#favorit1 {
+    position: absolute;
+    font-size: 20pt;
+    width: 250px;
+    height: 40px;
+    border-radius: 0 15px 15px 0;
+    top: 0px;
+    background-color: #75bc97;
+    color: white;
+    text-align: center;
+}
+
+.back-top h3 {
+    font-family: 'Montserrat';
+    font-size: 22pt;
+    position: absolute;
+    left: 20px;
+    top: 550px;
+    z-index: 1;
+    color: #1e6b4e;
+}
+
+.back-top p {
+    font-family: 'Montserrat';
+    font-size: 22pt;
+    position: absolute;
+    left: 350px;
+    top: 550px;
+    z-index: 1;
+    color: #1e6b4e;
+}
+
+#icons-bunny {
+    position: absolute;
+    top: 610px;
+    left: 350px;
+}
+
+
+.back-bunny {
+    position: absolute;
+    height: 730px;
+    width: 600px;
+}
+
+#bunny {
+    position: absolute;
+    width: 400px;
+    height: 500px;
+    left: 60px;
+    top: 25px;
+}
+
+/*FIM DO BUNNY*/
+
+/* INICIO DA EUPHORBIA*/
+
+#eupho {
+    position: absolute;
+    left: 550px;
+    height: 250px;
+}
+
+.back-top2 #name {
+    position: absolute;
+    font-size: 15pt;
+    left: 550px;
+    top: 250px;
+}
+
+.back-top2 #price {
+    position: absolute;
+    font-size: 15pt;
+    left: 550px;
+    top: 280px;
+}
+
+.icons-euphorbia {
+    position: absolute;
+    left: 690px;
+    top: 300px;
+}
+
+/*FIM DA EUPHORBIA*/
+
+/* INICIO DA SUCCULENT*/
+
+#succu {
+    position: absolute;
+    top: 80px;
+    left: 900px;
+    margin: 0;
+}
+
+.back-top3 #name {
+    position: absolute;
+    font-size: 15pt;
+    left: 900px;
+    top: 249px;
+}
+
+.back-top3 #price {
+    position: absolute;
+    font-size: 15pt;
+    left: 900px;
+    top: 275px;
+}
+
+.icons-succulent {
+    position: absolute;
+    left: 1020px;
+    top: 300px;
+}
+
+/* FIM DA SUCCULENT*/
+
+/*INICIO DA PONY */
+
+#pony {
+    position: absolute;
+    height: 230px;
+    left: 550px;
+    top: 350px;
+}
+
+.back-top4 #name {
+    position: absolute;
+    font-size: 15pt;
+    left: 550px;
+    top: 570px;
+}
+
+.back-top4 #price {
+    position: absolute;
+    font-size: 15pt;
+    left: 550px;
+    top: 600px;
+}
+
+.icons-pony {
+    position: absolute;
+    left: 680px;
+    top: 620px;
+}
+
+/* FIM DA PONY */ 
+
+/*INICIO DA FICUS */
+
+#ficus {
+    position: absolute;
+    left: 900px;
+    top: 360px;
+    height: 200px;
+}
+
+.back-top5 #name {
+    position: absolute;
+    font-size: 15pt;
+    left: 900px;
+    top: 570px;
+}
+
+.back-top5 #price {
+    position: absolute;
+    font-size: 15pt;
+    left: 899px;
+    top: 598px;
+}
+
+.icons-ficus {
+    position: absolute;
+    left: 1020px;
+    top: 620px;
+}
+
+/* FIM DA FICUS */
+
+/*INICIO DO BAMBOO */
+
+#bamboo {
+    position: absolute;
+    height: 280px;
+    left: 30px;
+    top: 700px;
+}
+
+.back-top6 #name {
+    position: absolute;
+    font-size: 15pt;
+    top: 960px;
+}
+
+.back-top6 #price {
+    position: absolute;
+    font-size: 15pt;
+    left: 20px;
+    top: 990px;
+}
+
+.icons-bamboo {
+    position: absolute;
+    left: 150px;
+    top: 1013px;
+}
+
+/* FIM DO BAMBOO */
+
+/*INICIO DA CALATHEA  */
+
+#calathea {
+    position: absolute;
+    height: 230px;
+    left: 300px;
+    top: 750px;
+}
+
+.back-top7  #name {
+    position: absolute;
+    font-size: 15pt;
+    left: 300px;
+    top: 960px;
+}
+
+.back-top7 #price {
+    position: absolute;
+    font-size: 15pt;
+    left: 300px;
+    top: 990px;
+}
+
+.icons-calathea {
+    position: absolute;
+    top: 1013px;
+    left: 420px;
+}
+
+/* FIM DA CALATHEA */
+
+/*INICIO DA PILEA */
+
+#pilea {
+    position: absolute;
+    height: 230px;
+    top: 750px;
+    left: 580px;
+}
+
+.back-top8  #name {
+    position: absolute;
+    font-size: 15pt;
+    left: 580px;
+    top: 960px;
+}
+
+.back-top8 #price {
+    position: absolute;
+    font-size: 15pt;
+    left: 580px;
+    top: 990px;
+}
+
+.icons-pilea {
+    position: absolute;
+    top: 1013px;
+    left: 720px;
+}
+
+/* FIM DA PILEA */ 
+
+/* INICIO DA MONSTERA */
+
+#monstera {
+    position: absolute;
+    height: 200px;
+    top: 750px;
+    left: 900px;
+}
+
+.back-top9  #name {
+    position: absolute;
+    font-size: 15pt;
+    left: 900px;
+    top: 960px;
+}
+
+.back-top9 #price {
+    position: absolute;
+    font-size: 15pt;
+    left: 900px;
+    top: 990px;
+}
+
+.icons-monstera {
+    position: absolute;
+    top: 1013px;
+    left: 1025px;
+}
+
+/* FIM DA MONSTERA E INICIO DO BOTÃO BACK TO THE TOP */
+

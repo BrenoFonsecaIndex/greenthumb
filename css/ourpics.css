@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@700&display=swap');
+
+.ourpics img{
+    position: absolute;
+    width: 160px;
+    height: 80px;
+    left: 150px;
+    top: 350px;
+}
+
+.ourpics-text {
+    position: absolute;
+    font-family: 'Montserrat';
+    font-size: 30pt;
+    top: 400px;
+    left: 150px;
+    color: #0c261c;
+}

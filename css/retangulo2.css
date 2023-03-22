@@ -1,0 +1,103 @@
+.retangulo-2 {
+    position: absolute;
+    width: 100%;
+    height: 299px;
+    left: 0px;
+    right: 0px;
+    top: 500px;
+    background: #fcfcfc;
+ }
+
+
+ .sun-img {
+    position: absolute;
+    width: 200px;
+    height: 200x;
+    left: 150px;
+    top: 40px
+ }
+
+ .conteudo-sun {
+    position: absolute;
+    left: 150px;
+    top: 110px;
+ }
+
+ #select-sun {
+   position: absolute;
+   border-radius: 10px;
+   width: 170px;
+   height: 30px;
+ }
+
+ #select {
+    width: 170px;
+    height: 30px;
+    border-radius: 20px;
+    left: 152px;
+ }
+
+ .form-group2 {
+    position: absolute;
+    left: 580px;
+    top: 180px;
+ }
+
+ #select2 {
+    width: 170px;
+    height: 30px;
+    border-radius: 10px;
+ }
+
+ .form-group3 {
+    position: absolute;
+    left: 1000px;
+    top: 180px;
+ }
+
+ #select3 {
+    width: 170px;
+    height: 30px;
+    border-radius: 10px;
+ }
+
+ .form-group {
+    position: absolute;
+    left: 288px;
+    top: 180px;
+ }
+
+ #select {
+    width: 170px;
+    height: 30px;
+    border-radius: 10px;
+ }
+
+ .water-img {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 580px;
+    top: 30px;
+ }
+
+
+.conteudo-water {
+    position: absolute;
+    left: 580px;
+    top: 110px;
+}
+
+.dog-img {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 1000px;
+    top: 30px;
+}
+
+.conteudo-dog {
+    position: absolute;
+    left: 1000px;
+    top: 110px;
+}
